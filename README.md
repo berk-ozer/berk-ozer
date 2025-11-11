@@ -1,8 +1,11 @@
 Hi, I'm Berk! 👋
 
-I’m a Full-Stack Software Engineer with 5+ years of experience building web and mobile applications end-to-end, from APIs and databases to polished UIs.
+I’m a Full-Stack Software Engineer with 5+ years of experience building Clojure(script) applications.
 
-- 👨🏻‍💻 I currently work at Bloom Ventures, building web applications in industries like legal tech ([Be Right There](https://berightthere.com)) and remote team productivity ([Unstuck](https://www.unstuckapp.com/))
+- ☁️ I currently work at [Cloudpermit](https://cloudpermit.com/), building end-to-end features for the world's leading e-permitting software for local governments.
+
+Previously:
+- 👨🏻‍💻 At Bloom Ventures, I built web applications in industries like legal tech ([Be Right There](https://berightthere.com)) and remote team productivity ([Unstuck](https://www.unstuckapp.com/))
 - 👨🏻‍🏫 At [Freemote](https://freemote.com), I mentored 500+ developers and created 2,000+ instructional videos, simplifying complex technical topics and helping learners grow.
 - 🪐 I built the Android version of [Cosmic Walk](https://www.cosmicwalk.app/) in Flutter, an app that takes hard-to-imagine times and distances and maps them onto long walks.
 
